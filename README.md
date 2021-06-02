@@ -16,11 +16,11 @@ Score :
 
 ![image](https://user-images.githubusercontent.com/68124256/120546975-1bcdf200-c40e-11eb-9fd0-2d5ea316e3c4.png)
 
-Scores_ssim     0.659922
+Scores_ssim - 0.659922
 
-Scores_mse      0.034199
+Scores_mse - 0.034199
 
-Scores_psnr    20.760093
+Scores_psnr - 20.760093
 
 
 It's obvious that, if we run for more epochs (like 10000) it'll generated more enhanced image. 
