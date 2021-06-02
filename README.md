@@ -9,3 +9,5 @@ Generated Image at epoch-0
 
 Generated Image at epoch-2900
 ![img_2900_0](https://user-images.githubusercontent.com/68124256/120536073-567d5d80-c401-11eb-8e21-be4df3b34ec9.png)
+
+It's obvious that, if we run for more epochs (like 10000) it'll generated more enhanced image. 
