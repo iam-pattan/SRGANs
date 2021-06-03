@@ -22,13 +22,13 @@ Score :
 ![image](https://user-images.githubusercontent.com/68124256/120710797-379fc980-c4dc-11eb-9642-f98f5636230e.png)
 
 Intre_ssim     0.033493
-Gen_ssim       0.598754
+-- Gen_ssim       0.598754
 
 Inter_mse      0.621423
-Gen_mse        0.041707
+-- Gen_mse        0.041707
 
 Inter_psnr     8.287220
-Gen_psnr      20.125588
+-- Gen_psnr      20.125588
 
 -> SSIM values ranges between 0 to 1, 1 means perfect match the reconstruct image with original one.
 
