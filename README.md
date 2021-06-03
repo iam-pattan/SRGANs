@@ -12,15 +12,27 @@ Generated Image at epoch-2900:
 
 ![img_2900_0](https://user-images.githubusercontent.com/68124256/120536073-567d5d80-c401-11eb-8e21-be4df3b34ec9.png)
 
+
+Comparision: 
+
+![image](https://user-images.githubusercontent.com/68124256/120710996-77ff4780-c4dc-11eb-8b71-b0f4cee2ae14.png)
+
 Score :
+![image](https://user-images.githubusercontent.com/68124256/120710797-379fc980-c4dc-11eb-9642-f98f5636230e.png)
 
-![image](https://user-images.githubusercontent.com/68124256/120546975-1bcdf200-c40e-11eb-9fd0-2d5ea316e3c4.png)
+Intre_ssim     0.033493
+Gen_ssim       0.598754
 
-Scores_ssim - 0.659922
+Inter_mse      0.621423
+Gen_mse        0.041707
 
-Scores_mse - 0.034199
+Inter_psnr     8.287220
+Gen_psnr      20.125588
 
-Scores_psnr - 20.760093
+-> SSIM values ranges between 0 to 1, 1 means perfect match the reconstruct image with original one.
 
+-> MSE is a full reference metric and the values closer to zero are the better
+
+-> The higher the PSNR, the better the quality of the compressed, or reconstructed image.
 
 It's obvious that, if we run for more epochs (like 10000) it'll generated more enhanced image. 
