@@ -22,11 +22,6 @@ Dataset: `https://github.com/OlafenwaMoses/IdenProf/releases/download/v1.0/idenp
 
 ![image](https://user-images.githubusercontent.com/68124256/120710797-379fc980-c4dc-11eb-9642-f98f5636230e.png)
 
-![image](https://user-images.githubusercontent.com/68124256/120712156-ebee1f80-c4dd-11eb-980c-7984b564005e.png)
-
-![image](https://user-images.githubusercontent.com/68124256/120712092-d547c880-c4dd-11eb-9b77-bf22f5bca475.png)
-
-
 ### Overall :
 Intre_ssim     0.033493
 -- Gen_ssim       0.598754
@@ -35,6 +30,30 @@ Inter_mse      0.621423
 -- Gen_mse        0.041707
 
 Inter_psnr     8.287220
+-- Gen_psnr      20.125588
+
+![image](https://user-images.githubusercontent.com/68124256/120712156-ebee1f80-c4dd-11eb-980c-7984b564005e.png)
+
+### Overall :
+Intre_ssim     0.702027
+-- Gen_ssim       0.598754
+
+Inter_mse      0.020368
+-- Gen_mse        0.041707
+
+Inter_psnr    23.594408
+-- Gen_psnr      20.125588
+
+![image](https://user-images.githubusercontent.com/68124256/120712092-d547c880-c4dd-11eb-9b77-bf22f5bca475.png)
+
+### Overall :
+Intre_ssim     0.750940
+-- Gen_ssim       0.598754
+
+Inter_mse      0.016728
+-- Gen_mse        0.041707
+
+Inter_psnr    24.495696
 -- Gen_psnr      20.125588
 
 ### Score Scale:
