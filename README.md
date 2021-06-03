@@ -17,7 +17,8 @@ Generated Image at epoch-2900:
 
 ![image](https://user-images.githubusercontent.com/68124256/120711250-c6ace180-c4dc-11eb-9d97-da223e83b1ea.png)
 
-`Score :`
+
+`Scores :`
 
 ![image](https://user-images.githubusercontent.com/68124256/120710797-379fc980-c4dc-11eb-9642-f98f5636230e.png)
 
@@ -25,6 +26,8 @@ Generated Image at epoch-2900:
 
 ![image](https://user-images.githubusercontent.com/68124256/120712092-d547c880-c4dd-11eb-9b77-bf22f5bca475.png)
 
+
+`Overall :`
 Intre_ssim     0.033493
 -- Gen_ssim       0.598754
 
@@ -42,4 +45,4 @@ Inter_psnr     8.287220
 -> The higher the PSNR, the better the quality of the compressed, or reconstructed image.
 
 
-`It's obvious that, if we run for more epochs (like 10000) it'll generated more enhanced image. `
+*It's obvious that, if we run for more epochs (like 10000) it'll generated more enhanced image. *
