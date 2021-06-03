@@ -13,11 +13,11 @@ Generated Image at epoch-2900:
 ![img_2900_0](https://user-images.githubusercontent.com/68124256/120536073-567d5d80-c401-11eb-8e21-be4df3b34ec9.png)
 
 
-Comparision between image enhanced from 64x64 to 256x256 using general interpolation and SRGANs: 
+`Comparision between image enhanced from 64x64 to 256x256 using general interpolation and SRGANs: `
 
 ![image](https://user-images.githubusercontent.com/68124256/120711250-c6ace180-c4dc-11eb-9d97-da223e83b1ea.png)
 
-Score :
+`Score :`
 
 ![image](https://user-images.githubusercontent.com/68124256/120710797-379fc980-c4dc-11eb-9642-f98f5636230e.png)
 
@@ -42,4 +42,4 @@ Inter_psnr     8.287220
 -> The higher the PSNR, the better the quality of the compressed, or reconstructed image.
 
 
-It's obvious that, if we run for more epochs (like 10000) it'll generated more enhanced image. 
+`It's obvious that, if we run for more epochs (like 10000) it'll generated more enhanced image. `
