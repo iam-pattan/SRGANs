@@ -56,7 +56,7 @@ Inter_mse      0.016728
 Inter_psnr    24.495696
 -- Gen_psnr      20.125588
 
-### Score Scale:
+#### Score Scales:
 -> SSIM values ranges between 0 to 1, 1 means perfect match the reconstruct image with original one.
 
 -> MSE is a full reference metric and the values closer to zero are the better
